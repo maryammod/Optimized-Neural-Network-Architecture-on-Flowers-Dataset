@@ -7,7 +7,7 @@ demonstrate the process of developing Artificial Neural Networks based classifie
 using the Iris flower database. The problem concerns the identification of Iris plant
 species on the basis of plant attribute measurements. Neural networks are
 implemented towards the identification of Iris plants on the basis of the following
-measurements: sepal length, sepal width, petal length, and petal width. Different ANN architecture used to find the best-fit for the dataset . The
+measurements: sepal length, sepal width, petal length, and petal width. Different ANN architecture used to find the best-fit  one for the dataset . The
 accuracy of %100 is achieved by setting the optimum value of hyperparameters using cross validation method.
 
 ### Keywords:
